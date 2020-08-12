@@ -1,5 +1,15 @@
 # @keystonejs/api-tests
 
+## 7.0.2
+
+### Patch Changes
+
+- [`eeba6c7a8`](https://github.com/keystonejs/keystone/commit/eeba6c7a88a550c94c22f6e05d72c573fb0b8bdc) [#3379](https://github.com/keystonejs/keystone/pull/3379) Thanks [@timleslie](https://github.com/timleslie)! - Update default value testing.
+
+- Updated dependencies [[`9338f3739`](https://github.com/keystonejs/keystone/commit/9338f3739ecff5f626a713a06ce65c1e29888d25), [`3db2f3956`](https://github.com/keystonejs/keystone/commit/3db2f395688342fe9a1dda14be5ce8308c9c39a6), [`72cd47b35`](https://github.com/keystonejs/keystone/commit/72cd47b357052b69e1d525758ff8a1a0cf44c5c2), [`7b0875723`](https://github.com/keystonejs/keystone/commit/7b0875723783780988f2dee4e5ee406a3b44ca98), [`7422922f5`](https://github.com/keystonejs/keystone/commit/7422922f5649a2b52699f67a77645e9c91800688), [`1b3943e4f`](https://github.com/keystonejs/keystone/commit/1b3943e4f66c61c446085736949c6b83e9087afb), [`b300720eb`](https://github.com/keystonejs/keystone/commit/b300720eb4e079bc30efb17ed3b48ab71cadc160)]:
+  - @keystonejs/fields@16.1.0
+  - @keystonejs/server-side-graphql-client@1.1.1
+
 ## 7.0.1
 
 ### Patch Changes

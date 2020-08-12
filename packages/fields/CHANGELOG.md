@@ -1,5 +1,27 @@
 # @keystonejs/fields
 
+## 16.1.0
+
+### Minor Changes
+
+- [`9338f3739`](https://github.com/keystonejs/keystone/commit/9338f3739ecff5f626a713a06ce65c1e29888d25) [#3363](https://github.com/keystonejs/keystone/pull/3363) Thanks [@mitchellhamilton](https://github.com/mitchellhamilton)! - Expose field type views at `@keystonejs/fields/types/*/views/{Cell,Controller,Filter,Field}`
+
+### Patch Changes
+
+- [`3db2f3956`](https://github.com/keystonejs/keystone/commit/3db2f395688342fe9a1dda14be5ce8308c9c39a6) [#3374](https://github.com/keystonejs/keystone/pull/3374) Thanks [@timleslie](https://github.com/timleslie)! - Cleaned up the implementation of generating unique `Slug` values.
+
+* [`7b0875723`](https://github.com/keystonejs/keystone/commit/7b0875723783780988f2dee4e5ee406a3b44ca98) [#3371](https://github.com/keystonejs/keystone/pull/3371) Thanks [@singhArmani](https://github.com/singhArmani)! - Added filter tests for `DateTimeUtc` field
+
+- [`7422922f5`](https://github.com/keystonejs/keystone/commit/7422922f5649a2b52699f67a77645e9c91800688) [#3375](https://github.com/keystonejs/keystone/pull/3375) Thanks [@singhArmani](https://github.com/singhArmani)! - Added `Filter` tests for the `Url` field type
+
+* [`1b3943e4f`](https://github.com/keystonejs/keystone/commit/1b3943e4f66c61c446085736949c6b83e9087afb) [#3378](https://github.com/keystonejs/keystone/pull/3378) Thanks [@timleslie](https://github.com/timleslie)! - Updated tests for the `Slug` field type.
+
+- [`b300720eb`](https://github.com/keystonejs/keystone/commit/b300720eb4e079bc30efb17ed3b48ab71cadc160) [#3373](https://github.com/keystonejs/keystone/pull/3373) Thanks [@timleslie](https://github.com/timleslie)! - Removed internal global variables.
+
+- Updated dependencies [[`72cd47b35`](https://github.com/keystonejs/keystone/commit/72cd47b357052b69e1d525758ff8a1a0cf44c5c2), [`9338f3739`](https://github.com/keystonejs/keystone/commit/9338f3739ecff5f626a713a06ce65c1e29888d25)]:
+  - @keystonejs/server-side-graphql-client@1.1.1
+  - @keystonejs/app-admin-ui@7.3.1
+
 ## 16.0.0
 
 ### Major Changes

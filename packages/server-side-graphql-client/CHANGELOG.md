@@ -1,5 +1,14 @@
 # @keystonejs/server-side-graphql-client
 
+## 1.1.1
+
+### Patch Changes
+
+- [`72cd47b35`](https://github.com/keystonejs/keystone/commit/72cd47b357052b69e1d525758ff8a1a0cf44c5c2) [#3383](https://github.com/keystonejs/keystone/pull/3383) Thanks [@singhArmani](https://github.com/singhArmani)! - Updated the `server-side-graphql-client` tests to have stable ordering
+
+- Updated dependencies [[`9338f3739`](https://github.com/keystonejs/keystone/commit/9338f3739ecff5f626a713a06ce65c1e29888d25), [`3db2f3956`](https://github.com/keystonejs/keystone/commit/3db2f395688342fe9a1dda14be5ce8308c9c39a6), [`7b0875723`](https://github.com/keystonejs/keystone/commit/7b0875723783780988f2dee4e5ee406a3b44ca98), [`7422922f5`](https://github.com/keystonejs/keystone/commit/7422922f5649a2b52699f67a77645e9c91800688), [`1b3943e4f`](https://github.com/keystonejs/keystone/commit/1b3943e4f66c61c446085736949c6b83e9087afb), [`b300720eb`](https://github.com/keystonejs/keystone/commit/b300720eb4e079bc30efb17ed3b48ab71cadc160)]:
+  - @keystonejs/fields@16.1.0
+
 ## 1.1.0
 
 ### Minor Changes
